@@ -8,6 +8,7 @@
 
 - Framework: [Next.js](https://nextjs.org/)
 - Jest (pruebas de componentes y pruebas unitarias)
+- Base de datos: IndexedDB (integrada en navegador).
 - LLM (Modelo de Lenguaje): Gemini
 - Estilo: CSS global y Tailwind
 - Linting & Formateo: ESLint + Prettier
@@ -20,7 +21,7 @@
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/sebastianmr18/scrummate-mvp
+git clone https://github.com/monitoria-uv/scrummate-mvp
 cd scrummate-mvp
 ```
 
