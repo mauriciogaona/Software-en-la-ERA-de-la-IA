@@ -11,4 +11,6 @@ Este libro, presenta un análisis del rol de la inteligencia artificial (IA) en 
 
 # Fintrack - Rastreador de Finanzas Personales (MVP):
 Fintrack es una **aplicación sencilla e intuitiva para el seguimiento financiero** diseñada para ayudar a los usuarios a **registrar y analizar** sus ingresos y gastos de forma eficiente.
+![image](https://github.com/user-attachments/assets/9a020c7a-8ef8-4a1b-ad88-ad0b43d5b377)
+
 
